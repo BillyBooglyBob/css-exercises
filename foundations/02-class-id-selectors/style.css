@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(244, 171, 206);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.no-2 {
+    color: blue;
+    font-size: 38px;
+}
+
+.no-3 {
+    font-size: 24px;
+}
+
+.no-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
